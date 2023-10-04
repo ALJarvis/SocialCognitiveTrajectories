@@ -1,0 +1,20 @@
+﻿happy,total score for the identification of happy facial expressions
+fear,total score for the identification of fearful facial expressions
+disgust,total score for the identification of disgusted facial expressions
+anger,total score for the identification of angry facial expressions
+surprise,total score for the identification of surprised facial expressions
+sad,total score for the identification of sad facial expressions
+neutral,total score for the identification of neutral facial expressions
+think,total score for second-order cognitive ToM
+do,total score for first-order cognitive ToM 
+Cog_ToM,total score for combined first- and second-order cogntive ToM 
+feel,total score for affective ToM 
+EC,Total Interpersonal Reactivity Index Empathic Concern score
+PD,Total Interpersonal Reactivity Index Personal Distress score
+EE,Total Interpersonal Reactivity Index combined Empathic Concern and Personal Distress scores
+Age,Participants age at the time of testing in years
+sex,Participants sex coded as 1 = male and 2 = female 
+education,Participants total years of formal education 
+HADSa,Total anxiety score
+HADSd,Total depression score
+MR,Total executive functioning score 
